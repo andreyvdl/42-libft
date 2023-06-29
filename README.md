@@ -25,5 +25,5 @@ make bonus
 
 Now you have a file called `libft.a`, use any funuction of the libft and compile you code with the archive.   
 ```sh
-[gcc | cc | clang] [flags] main.c libft/libft.a
+gcc | cc | clang [flags] c_program.c libft/libft.a
 ```
